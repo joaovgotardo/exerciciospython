@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modelagem do Banco de Dados/modelagem_banco_dados" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Modelagem do Banco de Dados/sql_workbench" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitexemplo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ul2 - poo/exercicios_avaliativos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ul2 - poo/recuperacao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicios_avaliativos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recuperacao" vcs="Git" />
+  </component>
+</project>
